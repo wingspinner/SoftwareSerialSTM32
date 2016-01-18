@@ -1,4 +1,4 @@
-# SoftwareSerialSTM32-master
+# SoftwareSerialSTM32
 
 Multi-instance software serial library for Arduino/Wiring
 
